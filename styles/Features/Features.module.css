@@ -1,0 +1,32 @@
+.section{
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+
+.container{
+    margin: auto ;
+    max-width: 1207px;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(2,50%);
+
+}
+
+.para{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    /* margin-left: 15px; */
+}
+
+.para span{
+    height: 21px;
+    margin-right: 12px;
+}
+
+.text{
+    margin-top: 55px;
+    margin-left: 145px;
+
+
+}

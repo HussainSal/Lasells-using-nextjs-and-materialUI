@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+}
+
+
+.card{
+    max-width: 400px;
+    /* height: 230px; */
+    margin-top: 60px;
+    transition: all .2s;
+    box-sizing: border-box;
+
+}
+
+.card:not(:last-child){
+    margin-right: 50px;
+}
+
+.action{
+    margin-top: 36px;
+    margin-right: 20px;
+    font-weight: 400;
+
+}
+
+.title{
+    margin-top: 15px;
+    max-height: 18px;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.avatar{
+    margin-top: 10px;
+}
+
+.content{
+    max-width: 340px;
+    max-height: 100px;
+    margin-left: 12px;
+    margin-bottom: 6px;
+    color: #0B132A;
+    /* margin-top: 20px; */
+
+}

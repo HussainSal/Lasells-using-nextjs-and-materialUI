@@ -1,0 +1,69 @@
+
+.container {
+  max-width: 1207px;
+  margin: 100px auto 74px auto;
+  text-align: center;
+  background-color: #FCFCFC;
+}
+
+.planContainer {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.box {
+  width: 330px;
+  height: 760px;
+  background: #ffffff;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 2px solid #dddddd;
+  /* margin-bottom: 150px; */
+}
+
+.image {
+  margin: 79.63px 92.55px 30px 92.55px;
+}
+
+.span {
+  margin-right: 24px;
+  position: relative;
+  top: 6px;
+}
+
+.contentBox {
+  text-align: start;
+  width: 190.26px;
+  margin: auto;
+}
+
+.textBox{
+  margin: 0px auto 0px auto;
+  text-align: center;
+  width: 555px;
+}
+
+
+.priceBox {
+  margin: 50px auto 0px auto;
+}
+
+.priceBox1 {
+  margin: 130px auto 0px auto;
+}
+
+.priceBox2 {
+  margin: 90px auto 0px auto;
+}
+
+.button {
+  width: 177.88px;
+  height: 45px;
+}
+
+.mo {
+  display: inline;
+  color: #4F5665;
+}

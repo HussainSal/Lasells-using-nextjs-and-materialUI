@@ -1,0 +1,57 @@
+.container {
+  max-width: 1207px;
+  margin: 75px auto 64px auto;
+}
+
+.textContainer {
+  width: 383.41px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.subTextContainer {
+  color: #4f5665;
+  display: block;
+  width: 555px;
+  text-align: center;
+  margin: auto;
+}
+
+.map {
+  margin: 155px auto 0px auto;
+  text-align: center;
+}
+
+.para {
+  display: inline;
+  text-transform: lowercase;
+}
+
+.logoContaienr {
+  margin-top: 74px;
+  display: flex;
+  justify-content: space-evenly;
+  justify-items: center;
+  align-items: center;
+  max-width: 1135.64px;
+  max-height: 92px;
+  padding: 26px 5px 0px 5px;
+}
+
+.netflix {
+  width: 200px;
+  height: 112px;
+  margin-right: 34px;
+}
+
+.reddit {
+  width: 190px;
+  height: 60px;
+}
+
+.other {
+  width: 190px;
+  height: 60px;
+  margin-right: 34px;
+}

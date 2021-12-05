@@ -1,0 +1,39 @@
+.Navigation {
+  display: flex;
+  /* max-width: 1140px; */
+  max-width: 1207px;
+  display: flex;
+  justify-content: space-between;
+  margin: 45.62px auto 0px auto;
+}
+
+.signIn {
+  width: 100px;
+  font: "Rubik";
+  font-weight: 500;
+}
+
+.container1 {
+  display: flex;
+  align-items: center;
+  width: 35px;
+  height: 36.23px;
+  flex-basis: 165px;
+  justify-content: flex-end;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: "Rubik";
+}
+
+.container2 {
+  display: flex;
+  align-items: center;
+  flex-basis: 454px;
+  justify-content: space-between;
+  font-family: "Rubik";
+}
+
+.container3 {
+  display: flex;
+  font-family: "Rubik";
+}

@@ -1,0 +1,84 @@
+.container {
+  max-width: 1207px;
+  margin: 65px auto 35px auto;
+}
+
+.para{
+  display: inline;
+  text-transform: lowercase;
+}
+
+
+.textContainer {
+  width: 450.41px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.subTextContainer {
+  color: #4f5665;
+  display: block;
+  width: 555px;
+  text-align: center;
+  margin: auto;
+}
+
+.bottomContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttonContainer {
+  margin-top: 82.5px;
+  display: flex;
+}
+
+.active {
+  width: 40.2px;
+  height: 15px;
+  background-color: #f53838;
+  border-radius: 50px;
+}
+
+.unactive {
+  width: 15px;
+  height: 15px;
+  background-color: #dde0e4;
+  border-radius: 50px;
+  margin-left: 15px;
+}
+
+.arrows {
+  margin-top: 62.5px;
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 20px;
+  /* box-sizing: border-box; */
+  /* padding: 0 10px 0 10px; */
+}
+
+.arrowForward {
+  /* margin-right: 30px; */
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background-color: #f53838;
+  cursor: pointer;
+  border: 2px solid #f53838;
+}
+
+.arrowBack {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-right: 40px;
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  border: 2px solid #f53838;
+  cursor: pointer;
+}

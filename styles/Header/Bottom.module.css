@@ -1,0 +1,61 @@
+.subContainer1 {
+  width: 1140px;
+  height: 200px;
+  background-color: #ffffff;
+  box-sizing: content-box;
+
+  margin: 96px auto 40px auto;
+  box-shadow: 0 0.2rem 8rem rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.box {
+  display: flex;
+  margin: 67.5px 100px 67.5px 91px;
+  width: 140px;
+  height: 58px;
+  justify-content: space-between;
+}
+
+.box2 {
+  display: flex;
+  margin: 67.5px 130px 67.5px 80px;
+  width: 168px;
+  height: 58px;
+  justify-content: space-between;
+  position: relative;
+  left: 12px;
+}
+
+.box3 {
+  display: flex;
+  margin: 67.5px 90.5px 67.5px 91.5px;
+  width: 146px;
+  height: 58px;
+  justify-content: space-between;
+}
+
+.text {
+  margin-right: 20px;
+}
+
+
+.border1 {
+  height: 125.57px;
+  border-right: 2px solid #eeeff2;
+  margin: 37.5px 10px 37.5px 0px;
+  position: relative;
+  left: 10px;
+
+}
+
+.border2 {
+  width: 0px;
+  height: 125.57px;
+  border-right: 2px solid #eeeff2;
+  margin: 37.5px 0px;
+  position: relative;
+  left: 8px;
+}

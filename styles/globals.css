@@ -1,0 +1,19 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
+
+body {
+  background: #fff;
+  margin: 0;
+  margin: auto;
+  font-family: 'Rubik';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+
+.divider{
+  height: 1px;
+  width: 100%;
+}
